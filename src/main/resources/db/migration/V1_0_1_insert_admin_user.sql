@@ -1,0 +1,1 @@
+INSERT INTO public.clientes (bairro, cep, cidade, email, estado, nome, rua, senha) VALUES (null, null, null, 'admin@prodmanager.com', null, 'Admin', null, '{bcrypt}$2a$10$eEiPsesZp0PmacbNVIoeWeRnpTqPf38d3E9Z8lTxe2FwvWu8CrZCi');
